@@ -13,7 +13,7 @@ You can learn the minimax algorithm from here https://en.wikipedia.org/wiki/Mini
 </br>
 
 # Testing:
-- Go download it from here [Click Here](https://github.com/tneilc/XOX-AI/releases/tag/v0.0)
+- Go download it from [here](https://github.com/tneilc/XOX-AI/releases/tag/v0.0) or from releases.
 - I know it sometimes fails
 - If you have a better way of something or you just clean code please contribute.
 </br>
