@@ -4,7 +4,6 @@ A minimax based XOX ai.</br>
 You can learn the minimax algorithm from here https://en.wikipedia.org/wiki/Minimax
 </br>
 
-
 # How to use:
 
 - Download the source code
