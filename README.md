@@ -12,6 +12,13 @@ You can learn the minimax algorithm from here https://en.wikipedia.org/wiki/Mini
 - Build
 </br>
 
+# Testing:
+- Go download it from here 
+- I know it sometimes fails
+- If you have a better way of something or you just clean code please contribute.
+</br>
+
+
 # Todo:
 
 - Change win check algorithm.
